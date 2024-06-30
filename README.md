@@ -11,7 +11,7 @@
 ## 수업 자료( ☀️ 2024년 6월 26일 updated)
 
 
-- **튜닝예제1.  select 문의 실행과정 3단계를 먼저 아셔야해요**:  📄[노트](https://github.com/oracleyu01/test20/blob/main/%E2%96%A3%E2%96%A3%20%ED%8A%9C%EB%8B%9D%EC%98%88%EC%A0%9C1.%20%20select%20%EB%AC%B8%EC%9D%98%20%EC%8B%A4%ED%96%89%EA%B3%BC%EC%A0%95%203%EB%8B%A8%EA%B3%84%EB%A5%BC%20%EB%A8%BC%EC%A0%80%20%EC%95%84%EC%85%94%EC%95%BC%ED%95%B4%EC%9A%94..txt)
+- **튜닝예제1.  select 문의 실행과정 3단계를 먼저 아셔야해요**:  📄[노트](https://www.notion.so/SQL-1-08a06d5c99b3452d9eb9b11abf74046e)
   &nbsp;
   
 - **튜닝예제2.  옵티마이져가 뭔지 알아야해요 !**: 📄 [노트](https://github.com/oracleyu01/test20/blob/main/%E2%96%A3%20%ED%8A%9C%EB%8B%9D%EC%98%88%EC%A0%9C2.%20%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%B8%EA%B0%80%20%EB%AD%94%EC%A7%80%20%EC%95%8C%EC%95%84%EC%95%BC%ED%95%B4%EC%9A%94.txt)
